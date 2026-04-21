@@ -1,7 +1,7 @@
 # Kubernetes Useful Tools - Complete DevOps Toolkit
 
 **Curated by:** Karthik Reddy  
-**Last Updated:** April 2024  
+**Last Updated:** April 2026
 **Coverage:** 40+ Tools | 8 Categories | 100+ Interview Q&A
 
 A comprehensive workspace containing detailed documentation, troubleshooting guides, and senior-level interview questions for essential DevOps and Kubernetes tools organized by functional category.
